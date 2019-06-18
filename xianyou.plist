@@ -11,7 +11,7 @@
                   <key>kind</key>
                   <string>software-package</string>
                    <key>url</key>
-                  <string>http://xz.dianhanwangcj.cn/path/to/YourApp.ipa</string>
+                  <string>http://xz.dianhanwangcj.cn/ios/xianyou.ipa</string>
               </dict>
                <dict>
                  <key>kind</key>
@@ -19,7 +19,7 @@
                  <key>needs-shine</key>
                 <true/>
                 <key>url</key>
-                <string>http://xz.dianhanwangcj.cn<span style="font-family: Arial, Helvetica, sans-serif;">/path/to/your_app_logo.png</string></span>
+                <string>http://www.hbyk.me<span style="font-family: Arial, Helvetica, sans-serif;">/Public/icon/2019-06-18/1560829831_11833.png</string></span>
              </dict>
            <dict>
                   <key>kind</key>
@@ -27,12 +27,12 @@
                   <key>needs-shine</key>
                   <true/>
                    <key>url</key>
-                   <string>http://xz.dianhanwangcj.cn/path/to/your_app_logo.png</string>
+                   <string>http://www.hbyk.me/Public/icon/2019-06-18/1560829831_11833.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.yourcompany.yourapp</string>
+               <string>com.yuexinyou.dn.nyhhjb</string>
                <key>bundle-version</key>
               <string>1</string>
                <key>kind</key>
